@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi! I'm Marie
+
+After 3 years in a Fintech where I was able to develop managerial and business skills, I did the *Le Wagon bootcamp* in order to acquire tech skills and **become a freelancer**.
+
+👨‍💻 All of my projects are available at *portfolio to come*
+
 
 <!--
 **marieszz/marieszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
