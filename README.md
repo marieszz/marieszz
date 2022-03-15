@@ -1,4 +1,4 @@
-### Hi! I'm Marie
+## Hi! I'm Marie
 
 After 3 years in a Fintech where I was able to develop managerial and business skills, I did the *Le Wagon bootcamp* in order to acquire tech skills and **become a freelancer**.
 
