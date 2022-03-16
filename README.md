@@ -1,6 +1,6 @@
 ## Hi! I'm Marie :dancers:
 
-After 3 years in a Fintech where I was able to develop managerial and business skills, I did the *Le Wagon bootcamp* in order to acquire tech skills and **become a freelancer**.
+After 3 years in a Fintech where I developed managerial and business skills, I did the *Le Wagon bootcamp* in order to acquire tech skills and **become a freelance developer**.
 
 👨‍💻 All of my projects are available at *portfolio to come*
 
